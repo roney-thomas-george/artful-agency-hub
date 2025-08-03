@@ -5,7 +5,7 @@ import { ExternalLink, Instagram, Linkedin, Globe } from "lucide-react";
 
 const designers = [
   {
-    name: "Sarah Chen",
+    name: "Roney Thomas",
     role: "Creative Director",
     skills: ["Brand Strategy", "Art Direction", "Typography"],
     bio: "Leading creative vision with 8+ years in advertising design.",
