@@ -12,7 +12,7 @@ const Navigation = () => {
           {/* Logo */}
           <div className="text-2xl font-bold">
             <span className="bg-gradient-primary bg-clip-text text-transparent">
-              Creative Studio
+              Roney Creative Studio
             </span>
           </div>
           
