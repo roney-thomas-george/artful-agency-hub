@@ -45,22 +45,22 @@ const Footer = () => {
             <div className="space-y-3 text-background/80">
               <div className="flex items-center">
                 <Mail className="w-4 h-4 mr-3" />
-                <span>hello@creativestudio.com</span>
+                <span>hello@roneycreativestudio.com</span>
               </div>
               <div className="flex items-center">
                 <Phone className="w-4 h-4 mr-3" />
-                <span>+1 (555) 123-4567</span>
+                <span>+91 987 654 321 0</span>
               </div>
               <div className="flex items-center">
                 <MapPin className="w-4 h-4 mr-3" />
-                <span>New York, NY</span>
+                <span>Alappuzha, IN</span>
               </div>
             </div>
           </div>
         </div>
         
         <div className="border-t border-background/20 pt-8 text-center text-background/60">
-          <p>&copy; 2024 Creative Studio. All rights reserved.</p>
+          <p>&copy; 2025 Roney Creative Studio. All rights reserved.</p>
         </div>
       </div>
     </footer>

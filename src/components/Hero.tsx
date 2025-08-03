@@ -23,7 +23,7 @@ const Hero = () => {
         <div className="flex items-center justify-center mb-6">
           <Sparkles className="w-8 h-8 text-primary mr-3 animate-pulse" />
           <span className="text-lg font-medium text-muted-foreground tracking-wide uppercase">
-            Creative Studio
+            Roney Creative Studio
           </span>
         </div>
         
